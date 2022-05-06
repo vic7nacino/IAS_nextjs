@@ -19,7 +19,7 @@ import {
     return (
       <>
         <Heading>
-          <title>IAS Entry</title>
+          <title>IAS Entryw</title>
           <meta name="description" content="Inventory Adjustment Slip" />
           <link rel="icon" href="/favicon.ico" />
         </Heading>
